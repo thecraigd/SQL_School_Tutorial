@@ -6,7 +6,7 @@ Database building project to accompany [this tutorial](URL WILL GO HERE WHEN ONL
 #### Project status - Complete
 
 ## Introduction
-This 
+This section has not been written yet.
 
 ### Methods used
 * Database Schema Planning
