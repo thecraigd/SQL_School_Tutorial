@@ -1,5 +1,5 @@
 # Building a Relational Database from scratch using MySQL
-## Learn to create and update your own fully-functional relational database using SQL with free open-source software
+## Learn to create, update and interrogate your own fully-functional relational database using SQL with free open-source software
 Database building project to accompany [this tutorial](URL WILL GO HERE WHEN ONLINE).
 
 
