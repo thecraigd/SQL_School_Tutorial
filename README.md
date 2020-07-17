@@ -6,12 +6,13 @@ Database building project to accompany [this tutorial](URL WILL GO HERE WHEN ONL
 #### Project status - Complete
 
 ## Introduction
-This section has not been written yet.
+This repository contains the files to accompany the series of tutorials I wrote which cover designing, implementing and interrogating a relational database from scratch. The code to go with the tutorial is contained in [this .SQL file](https://github.com/thecraigd/SQL_School_Tutorial/blob/master/ILS_DB_code.sql).
 
 ### Methods used
 * Database Schema Planning
 * Entity Relationship Diagram Construction
 * Database Implementation
+* SQL Query creation, joins, nested queries, etc
 
 
 ### Technologies used
@@ -33,4 +34,4 @@ Some participant names were created using [Fake Name Generator](https://www.fake
 
 
 ## Contact
-All feedback is warmly received. Craig Dickson can be contacted via his website [craigdoesdata.de](https://www.craigdoesdata.de/contact.html).
+All feedback is warmly received. I can be contacted via my website [craigdoesdata.de](https://www.craigdoesdata.de/contact.html).
