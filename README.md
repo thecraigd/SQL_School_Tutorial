@@ -24,7 +24,7 @@ This repository contains the files to accompany the series of tutorials I wrote 
 
 ### Data Sources
 
-Data was created to populate the database by me, [Craig Dickson](www.craigdoesdata.de).
+Data was created to populate the database by me, [Craig Dickson](https://www.craigdoesdata.de).
 Some participant names were created using [Fake Name Generator](https://www.fakenamegenerator.com/).
 
 ### Getting started
