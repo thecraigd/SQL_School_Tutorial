@@ -16,15 +16,15 @@ This repository contains the files to accompany the series of tutorials I wrote 
 
 
 ### Technologies used
-* MySQL Community Server
-* PopSQL
-* Lucidchart
+* [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+* [PopSQL](https://popsql.com/)
+* [Lucidchart](https://www.lucidchart.com/pages/)
 
 
 
 ### Data Sources
 
-Data was created to populate the database by Craig Dickson.
+Data was created to populate the database by me, [Craig Dickson](www.craigdoesdata.de).
 Some participant names were created using [Fake Name Generator](https://www.fakenamegenerator.com/).
 
 ### Getting started
