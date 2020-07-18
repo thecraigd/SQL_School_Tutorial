@@ -1,8 +1,8 @@
 # Building a Relational Database from scratch using MySQL
 ## Learn to create, update and interrogate your own fully-functional relational database using SQL with free open-source software
 Database building project to accompany these tutorials:
- - [Designing a Relational Database and Creating an Entity Relationship Diagram (SQL Part 1)](URL WILL GO HERE WHEN ONLINE).
- - [Coding and Implementing a Relational Database using MySQL (SQL part 2)](URL WILL GO HERE WHEN ONLINE).
+ - [Designing a Relational Database and Creating an Entity Relationship Diagram (SQL Part 1)](https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2).
+ - [Coding and Implementing a Relational Database using MySQL (SQL part 2)](https://towardsdatascience.com/coding-and-implementing-a-relational-database-using-mysql-d9bc69be90f5).
  - [Data Analysis in MySQL — Operators, Joins and More in Relational Databases (SQL part 3)](https://towardsdatascience.com/data-analysis-in-mysql-operators-joins-and-more-in-relational-databases-26c0a968e61e).
  
 
