@@ -1,3 +1,9 @@
+[![CraigDoesData][logo]][link]
+
+[logo]: https://www.craigdoesdata.de/img/logo/logo.png
+[link]: https://www.craigdoesdata.de/
+
+
 # Building a Relational Database from scratch using MySQL
 ## Learn to create, update and interrogate your own fully-functional relational database using SQL with free open-source software
 Database building project to accompany these tutorials:
